@@ -14,7 +14,7 @@ The dashboard summarizes UV radiation data using charts, key performance indicat
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
